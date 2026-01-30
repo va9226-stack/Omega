@@ -1,0 +1,5 @@
+{
+  "name": "IADESS Omega Substrate",
+  "description": "A React implementation of the Omega Dahl Duel Substrate and VRAWLESS reasoning engine, featuring a cyber-terminal interface for neural network visualization and logic pipeline execution.",
+  "requestFramePermissions": []
+}
